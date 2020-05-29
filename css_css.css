@@ -1,4 +1,7 @@
 
+
+
+
 article {
 width: 100%;
 text-align: center;
@@ -25,7 +28,7 @@ text-align: center;
 .four {
 	height: 2118px;
 background-color: #F9FBFB;
-	
+width: 100%;
 }
 
 footer {
@@ -33,10 +36,32 @@ footer {
 	background-color: #262B2E;
 }
 
+.logo {
+	padding-bottom: 10px;
+	padding: 100px;
+	
+}
+
+
+.contact {
+	height: 50px;
+	width: 220px;
+	
+	
+}
+
+
+
+
+
+.stakan {
+	margin-left: 900px;
+	padding: -20px;
+}
 
 .text {
 	text-align: center;
-top: 264.5px;
+
 font-family: Montserrat;
 font-style: normal;
 font-weight: bold;
@@ -76,7 +101,7 @@ text-transform: uppercase;
 		
 		
 
-            width: 450px; height: 210px; padding: 26px; margin: 0;
+            width: 505px; height: 270px; padding: 26px; margin: 0;
         }
 	
 .text_3 {
@@ -130,7 +155,7 @@ color: #000000;
 .komp {
 	
 	
-	padding-left: 330px;
+	padding-left: 170px;
 	
 }
 
@@ -147,13 +172,14 @@ color: #000000;
 	position: absolute;
 width: 436px;
 height: 28px;
-left: 963px;
+left: 763px;
+top: 1200px;
 font-family: Merriweather;
 font-style: normal;
 font-weight: bold;
 font-size: 20px;
 line-height: 28px;
-
+text-align: left;
 display: inline;
 align-items: center;
 letter-spacing: 1.2px;
@@ -172,7 +198,8 @@ color: #000000;
 	position: absolute;
 width: 504px;
 height: 256px;
-left: 963px;
+left: 763px;
+top: 1220px;
 margin-bottom: 0px;
 
 font-family: Raleway;
@@ -180,7 +207,7 @@ font-style: normal;
 font-weight: normal;
 font-size: 16px;
 line-height: 28px;
-
+text-align: left;
 
 display: flex;
 align-items: center;
@@ -198,8 +225,9 @@ color: #000000;
 	position: absolute;
 width: 284px;
 height: 28px;
-left: 961px;
-
+left: 763px;
+top: 1500px;
+text-align: left;
 
 font-family: Merriweather;
 font-style: normal;
@@ -225,8 +253,9 @@ color: #000000;
 	position: absolute;
 width: 499px;
 height: 86px;
-left: 963px;
-
+left: 763px;
+top: 1550px;
+text-align: left;
 
 font-family: Raleway;
 font-style: normal;
@@ -431,12 +460,95 @@ color: #FFFFFF;
 	
 }
 
-.image1 {
-	width: 1200px;
-	display:  block;
+
+
+
+.eda1 {
+	margin: 5px;
+	
+}	
+	
+.eda2 {
+	margin: 5px;
+}		
+	
+.eda3 {
+	margin: 5px;
+
+}	
+
+.eda4 {
+	margin: 5px;
+
+}	
+
+.eda5 {
+	margin: 5px;
+	
+}	
+
+.eda6 {
+	margin: 5px;
+}	
+
+
+.lyudi1 {
+	
+	margin: 5px;	
+	
+}
+
+.lyudi1 {
+	
+	margin: 5px;	
+	
+}
+
+
+.lyudi2 {
+	
+	margin: 5px;	
+	
+}
+
+.lyudi3 {
+	
+	margin: 5px;	
+	
+}
+
+.lyudi4 {
+	
+	margin: 5px;	
+	
+}
+.lyudi5 {
+	
+	margin: 5px;	
+	
+}
+.lyudi6 {
+	
+	margin: 5px;	
+	
+}
+
+form {
+	padding-top: 40px;
+	padding-left: 30px;
+}
+
+
+
+input {
+background-color: #021623;
+color: white;
+ border-bottom: 1px solid ;
 }
 
 .b1 {
+	margin-top: 100px;
+	margin-left: 40px;
 	   background: #6EEEE4; 
 	   position: absolute;
 width: 246px;
@@ -455,7 +567,7 @@ top: 17px;
 
 font-family: Montserrat;
 font-style: normal;
-font-weight: normal;
+font-weight: bold;
 font-size: 18px;
 line-height: 28px;
 
